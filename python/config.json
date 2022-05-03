@@ -1,0 +1,19 @@
+{
+    "accounts": {
+        "provider": {
+            "name": "",
+            "share": "",
+            "database": "",
+            "schema": ""
+        },
+        "consumer": {
+            "name": "",
+            "database": ""
+        }
+    },
+    "roles": {
+        "account": "accountadmin",
+        "sys": "sysadmin",
+        "public": "public"
+    }
+}
